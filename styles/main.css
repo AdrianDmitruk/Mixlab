@@ -479,6 +479,21 @@
   border-radius: 24px;
 }
 
+.partners {
+  background: var(--color-primary);
+  padding-top: 40px;
+  padding-bottom: 24px;
+}
+
+.partners__container {
+  padding: 0 55px;
+  max-width: 1250px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
 .footer {
   flex: 0 0 auto;
 }
