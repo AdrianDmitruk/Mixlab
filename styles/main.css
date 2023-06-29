@@ -505,6 +505,7 @@
 .footer {
   background: var(--color-footer);
   padding-bottom: 32px;
+  flex: 0 0 auto;
 }
 
 .footer__container {
@@ -571,8 +572,4 @@
   font-size: var(--font-size-small);
   line-height: var(--line-height-small);
   color: var(--color-white);
-}
-
-.footer {
-  flex: 0 0 auto;
 }
